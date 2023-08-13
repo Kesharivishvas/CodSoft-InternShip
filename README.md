@@ -9,7 +9,7 @@ This is repo of Internship which I got from the codSoft . According to the rule 
 ## Preview Image 
 <br/>
 
-- Calculator  [click here for demo] ()
+- Calculator  [click here for demo](https://cal-culator.vercel.app/)
 <br/>
 
  
@@ -17,7 +17,7 @@ This is repo of Internship which I got from the codSoft . According to the rule 
 
 <br/>
 
-- Landing Page [click here for demo ]()
+- Landing Page [click here for demo ](https://landing-page-internship.vercel.app/)
 <br/>
 
 
